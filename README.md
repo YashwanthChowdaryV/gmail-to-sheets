@@ -207,7 +207,8 @@ Vankayalapati Yashwanth Kumar
 
 9951810271
 
-Git Link : https://github.com/YashwanthChowdaryV/gmail-to-sheets
+**GitHub Repository:** [https://github.com/YashwanthChowdaryV/gmail-to-sheets](https://github.com/YashwanthChowdaryV/gmail-to-sheets)
+
 
 
 
