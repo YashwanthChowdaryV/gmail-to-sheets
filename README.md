@@ -208,11 +208,11 @@ python run.py
 *Python project structure with all source files in VS Code*
 
 #### 3. Gmail Before Processing
-![Unread Emails in Gmail](proof/Screenshot%20from%202026-01-15%2001-49-25.png)
+![Unread Emails in Gmail](proof/Screenshot%20from%202026-01-15%2003-01-53.png)
 *Inbox showing unread emails ready for processing*
 
 #### 4. Gmail After Processing  
-![Emails Marked as Read](proof/Screenshot%20from%202026-01-15%2001-49-37.png)
+![Emails Marked as Read](proof/Screenshot%20from%202026-01-15%2003-02-01.png)
 *Same inbox after script execution - emails marked as read*
 
 #### 5. Google Sheets Output
@@ -236,6 +236,7 @@ Vankayalapati Yashwanth Kumar
 9951810271
 
 **GitHub Repository:** [https://github.com/YashwanthChowdaryV/gmail-to-sheets](https://github.com/YashwanthChowdaryV/gmail-to-sheets)
+
 
 
 
