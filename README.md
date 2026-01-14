@@ -216,7 +216,7 @@ python run.py
 *Same inbox after script execution - emails marked as read*
 
 #### 5. Google Sheets Output
-![Data in Google Sheets](proof/Screenshot%20from%202026-01-15%2001-50-26.png)
+![Data in Google Sheets](proof/Screenshot%20from%202026-01-15%2003-10-26.png)
 *Spreadsheet with From, Subject, Date, Content columns populated*
 
 #### 6. OAuth Consent Screen
@@ -236,6 +236,7 @@ Vankayalapati Yashwanth Kumar
 9951810271
 
 **GitHub Repository:** [https://github.com/YashwanthChowdaryV/gmail-to-sheets](https://github.com/YashwanthChowdaryV/gmail-to-sheets)
+
 
 
 
