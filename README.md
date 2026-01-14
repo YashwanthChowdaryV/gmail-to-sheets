@@ -195,9 +195,12 @@ pip install -r requirements.txt
 # 2. Run the application
 python run.py 
 ```
+## 📸 Proof of Execution
 
-## Proof of Execution
-Video and Screenshots available in /proof/ folder:
+### Demo Video
+**`proof/Screencast-from-2026-01-14-23-50.mp4`**
+- Demonstrates: Project flow, data movement, duplicate prevention, second run behavior
+- 3-minute technical explanation covering all requirements
 
 ## Submission Details
 
@@ -208,6 +211,7 @@ Vankayalapati Yashwanth Kumar
 9951810271
 
 **GitHub Repository:** [https://github.com/YashwanthChowdaryV/gmail-to-sheets](https://github.com/YashwanthChowdaryV/gmail-to-sheets)
+
 
 
 
