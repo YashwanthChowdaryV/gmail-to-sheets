@@ -196,11 +196,25 @@ pip install -r requirements.txt
 python run.py 
 ```
 ## 📸 Proof of Execution
+## 📸 Proof of Execution
 
-### Demo Video
-**`proof/Screencast-from-2026-01-14-23-50.mp4`**
-- Demonstrates: Project flow, data movement, duplicate prevention, second run behavior
-- 3-minute technical explanation covering all requirements
+### Screenshots (in `/proof/` folder):
+1. **Project Setup** - `Screenshot from 2026-01-15 01-48-55.png` - VS Code with project files
+2. **Gmail Before** - `Screenshot from 2026-01-15 01-49-25.png` - Inbox with unread emails
+3. **Gmail After** - `Screenshot from 2026-01-15 01-49-37.png` - Emails marked as read by system
+4. **Google Sheets** - `Screenshot from 2026-01-15 01-50-26.png` - Spreadsheet with populated data
+5. **OAuth Consent** - `Screenshot from 2026-01-15 01-51-04.png` - Permission screen (email blurred)
+
+### Demo Video:-
+Download: [Screencast-from-2026-01-14-23-50.mp4](proof/Screencast-from-2026-01-14-23-50.mp4) (Right-click → Save As)
+
+**Key Demonstrations:**
+- ✅ OAuth 2.0 authentication flow
+- ✅ Fetching and parsing unread emails
+- ✅ Appending data to Google Sheets (From, Subject, Date, Content)
+- ✅ Duplicate prevention via state.json
+- ✅ Marking emails as read
+- ✅ All bonus features implemented
 
 ## Submission Details
 
@@ -211,6 +225,7 @@ Vankayalapati Yashwanth Kumar
 9951810271
 
 **GitHub Repository:** [https://github.com/YashwanthChowdaryV/gmail-to-sheets](https://github.com/YashwanthChowdaryV/gmail-to-sheets)
+
 
 
 
