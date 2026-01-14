@@ -199,13 +199,14 @@ python run.py
 
 ### Visual Demonstration:
 
-#### 1. System Architecture
-![Gmail to Sheets Architecture](proof/1.jpg)
-*Complete system design showing OAuth, services, and data flow*
 
-#### 2. Development Environment
+#### 1. Development Environment
 ![Project in VS Code](proof/Screenshot%20from%202026-01-15%2001-48-55.png)
 *Python project structure with all source files in VS Code*
+
+#### 2. OAuth Consent Screen
+![OAuth Permission Grant](proof/Screenshot%20from%202026-01-15%2001-51-04.png)
+*Google OAuth consent screen
 
 #### 3. Gmail Before Processing
 ![Unread Emails in Gmail](proof/Screenshot%20from%202026-01-15%2003-01-53.png)
@@ -218,10 +219,6 @@ python run.py
 #### 5. Google Sheets Output
 ![Data in Google Sheets](proof/Screenshot%20from%202026-01-15%2003-10-26.png)
 *Spreadsheet with From, Subject, Date, Content columns populated*
-
-#### 6. OAuth Consent Screen
-![OAuth Permission Grant](proof/Screenshot%20from%202026-01-15%2001-51-04.png)
-*Google OAuth consent screen (email blurred for privacy)*
 
 ### Demo Video:-
 Download: [Screencast-from-2026-01-14-23-50.mp4](proof/Screencast-from-2026-01-14-23-50.mp4) (Right-click → Save As)
@@ -236,6 +233,7 @@ Vankayalapati Yashwanth Kumar
 9951810271
 
 **GitHub Repository:** [https://github.com/YashwanthChowdaryV/gmail-to-sheets](https://github.com/YashwanthChowdaryV/gmail-to-sheets)
+
 
 
 
