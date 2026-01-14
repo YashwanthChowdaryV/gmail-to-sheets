@@ -83,8 +83,7 @@ Python system that automatically transfers unread Gmail emails to Google Sheets 
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 
-Architecture Image is in gmail-to-sheets/proof/
-
+Architecture Image is in ![My Project Architecture](proof/1.jpg)
 
 ## ⚙️ Setup Instructions
 
@@ -255,5 +254,6 @@ Vankayalapati Yashwanth Kumar
 9951810271
 
 Git Link : https://github.com/YashwanthChowdaryV/gmail-to-sheets
+
 
 
