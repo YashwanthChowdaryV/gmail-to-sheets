@@ -196,25 +196,36 @@ pip install -r requirements.txt
 python run.py 
 ```
 ## 📸 Proof of Execution
-## 📸 Proof of Execution
 
-### Screenshots (in `/proof/` folder):
-1. **Project Setup** - `Screenshot from 2026-01-15 01-48-55.png` - VS Code with project files
-2. **Gmail Before** - `Screenshot from 2026-01-15 01-49-25.png` - Inbox with unread emails
-3. **Gmail After** - `Screenshot from 2026-01-15 01-49-37.png` - Emails marked as read by system
-4. **Google Sheets** - `Screenshot from 2026-01-15 01-50-26.png` - Spreadsheet with populated data
-5. **OAuth Consent** - `Screenshot from 2026-01-15 01-51-04.png` - Permission screen (email blurred)
+### Visual Demonstration:
+
+#### 1. System Architecture
+![Gmail to Sheets Architecture](proof/1.jpg)
+*Complete system design showing OAuth, services, and data flow*
+
+#### 2. Development Environment
+![Project in VS Code](proof/Screenshot%20from%202026-01-15%2001-48-55.png)
+*Python project structure with all source files in VS Code*
+
+#### 3. Gmail Before Processing
+![Unread Emails in Gmail](proof/Screenshot%20from%202026-01-15%2001-49-25.png)
+*Inbox showing unread emails ready for processing*
+
+#### 4. Gmail After Processing  
+![Emails Marked as Read](proof/Screenshot%20from%202026-01-15%2001-49-37.png)
+*Same inbox after script execution - emails marked as read*
+
+#### 5. Google Sheets Output
+![Data in Google Sheets](proof/Screenshot%20from%202026-01-15%2001-50-26.png)
+*Spreadsheet with From, Subject, Date, Content columns populated*
+
+#### 6. OAuth Consent Screen
+![OAuth Permission Grant](proof/Screenshot%20from%202026-01-15%2001-51-04.png)
+*Google OAuth consent screen (email blurred for privacy)*
 
 ### Demo Video:-
 Download: [Screencast-from-2026-01-14-23-50.mp4](proof/Screencast-from-2026-01-14-23-50.mp4) (Right-click → Save As)
 
-**Key Demonstrations:**
-- ✅ OAuth 2.0 authentication flow
-- ✅ Fetching and parsing unread emails
-- ✅ Appending data to Google Sheets (From, Subject, Date, Content)
-- ✅ Duplicate prevention via state.json
-- ✅ Marking emails as read
-- ✅ All bonus features implemented
 
 ## Submission Details
 
@@ -225,6 +236,7 @@ Vankayalapati Yashwanth Kumar
 9951810271
 
 **GitHub Repository:** [https://github.com/YashwanthChowdaryV/gmail-to-sheets](https://github.com/YashwanthChowdaryV/gmail-to-sheets)
+
 
 
 
