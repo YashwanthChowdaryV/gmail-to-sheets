@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Credentials
+credentials/
+*.json
+*.pickle
+token.pickle
+
+# State
+state.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Proof
+proof/*.png
+proof/*.jpg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# In .gitignore - Make sure these lines exist:
+credentials/token.pickle
