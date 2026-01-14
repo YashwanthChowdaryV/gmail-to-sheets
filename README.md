@@ -1,7 +1,6 @@
 # **Gmail to Google Sheets Automation System**
 
 **Vankayalapati Yashwanth Kumar**  
-**Ramraj Enterprises Internship Technical Assessment**
 
 ## **Project Overview**
 Python system that automatically transfers unread Gmail emails to Google Sheets using OAuth 2.0. Extracts sender, subject, date, and content from emails, organizes them into spreadsheet rows, and prevents duplicates through state management.
@@ -247,4 +246,5 @@ Video and Screenshots available in /proof/ folder:
 
 Vankayalapati Yashwanth Kumar
 23eg105t62@anurag.edu.in
+
 9951810271
